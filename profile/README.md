@@ -23,7 +23,8 @@
 ## Project 목록
 
 ### V-OLA
-
+1. [vola-web-integration](https://github.com/edgecross-cloud/vola-web-integration) - V-OLA Web Service 입니다. Spring Boot로 구성된 프로젝트로 Frontend(JQuery), Backend(Java Spring)가 함께 구성되어 있는 프로젝트입니다.
+2. [vola-admin-integration](https://github.com/edgecross-cloud/vola-admin-integration) - V-OLA 관리자 Service 입니다. Spring Boot로 구성된 프로젝트로 Frontend(JQuery), Backend(Java Spring)가 함께 구성되어 있는 프로젝트입니다.
 ### PROGIX
 
 ### SCAUTR
