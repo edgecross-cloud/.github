@@ -58,12 +58,14 @@
 - <b>main branch</b>
   - 실제 배포/운영 브랜치
   - 실제 배포된 버전의 소스코드로 유지
+  - main branch 버전 포맷은 "X.Y.Z" 을 사용
 
 - <b>develop branch</b>
   - 전체 개발 브랜치 
   - 모든 개발은 develop branch를 중심으로 진행
   - develop branch는 완성되어 배포가 확정된 코드로 유지
   - feature branch에서 개발하여 pull request로 merge를 진행
+  - develop branch 버전 포맷은 "X.Y.Z-RC" 을 사용
 
 - <b>feature branch</b>
   - 세부 기능 개발 브랜치
@@ -71,6 +73,7 @@
     1. 개발하려는 기능으로 Github Issue 생성하기 
     2. Github Issue Number을 확인하기
     3. feature/[github-issue-number]-[개발하려는 기능] 형식으로 브랜치 생성하기 ex. feature/3-alarm
+  - feature branch 버전 포맷은 "X.Y.Z-SNAPSHOT" 을 사용
 
 
 ### Commit convention
