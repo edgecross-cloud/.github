@@ -9,11 +9,7 @@
 
 <br></br>
 ## 🐦Team Cloud 
-| <img src="https://github.com/edgecross-cloud/.github/assets/96868951/be26cd16-d3b7-430b-9826-39fa50ea9e94" width="80" height="80" /> <br> 최창서 <br> (팀장) 
-| <img src="https://github.com/edgecross-cloud/.github/assets/96868951/40df59aa-9943-49a7-bc4e-5853265971f8" width="80" height="80" /> <br> 유승근 <br> (팀원) 
-| <img src="https://github.com/edgecross-cloud/.github/assets/96868951/18cc7ef1-77e8-43fe-b544-05c9035a5654" width="80" height="80" /> <br> 고민지 <br> (팀원) 
-| <img src="https://github.com/edgecross-cloud/.github/assets/96868951/2020e122-58df-4b1c-8371-13f5e986d54c" width="80" height="80" /> <br> 김진성 <br> (팀원) 
-| <img src="https://github.com/edgecross-cloud/.github/assets/87007436/45684ab5-9cdd-4004-9ae2-26287e0648c1" width="80" height="80" /> <br> 문정민 <br> (팀원) |
+| <img src="https://github.com/edgecross-cloud/.github/assets/96868951/be26cd16-d3b7-430b-9826-39fa50ea9e94" width="80" height="80" /> <br> 최창서 <br> (팀장) |  <img src="https://github.com/edgecross-cloud/.github/assets/87007436/45684ab5-9cdd-4004-9ae2-26287e0648c1" width="80" height="80" /> <br> 문정민 <br> (팀원)  | <img src="https://github.com/edgecross-cloud/.github/assets/96868951/40df59aa-9943-49a7-bc4e-5853265971f8" width="80" height="80" /> <br> 유승근 <br> (팀원) | <img src="https://github.com/edgecross-cloud/.github/assets/96868951/18cc7ef1-77e8-43fe-b544-05c9035a5654" width="80" height="80" /> <br> 고민지 <br> (팀원) | <img src="https://github.com/edgecross-cloud/.github/assets/96868951/2020e122-58df-4b1c-8371-13f5e986d54c" width="80" height="80" /> <br> 김진성 <br> (팀원) |
 |:---:|:---:|:---:|:---:|:---:|
 
 
