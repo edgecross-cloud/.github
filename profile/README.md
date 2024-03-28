@@ -29,8 +29,8 @@
 6. [progix-react-native](https://github.com/edgecross-cloud/progix-react-native)
 
 ### SCAUTR 
-1. [scautr-web-client](https://github.com/edgecross-cloud/scautr-web-server) - SCAUTR의 Frontend 서버입니다.
-2. [scautr-web-server](https://github.com/edgecross-cloud/scautr-web-client) - SCAUTR의 Backend 서버입니다. 
+1. [scautr-web-client](https://github.com/edgecross-cloud/scautr-web-client) - SCAUTR의 Frontend 서버입니다.
+2. [scautr-web-server](https://github.com/edgecross-cloud/scautr-web-server) - SCAUTR의 Backend 서버입니다. 
 
 ### RELAYPOINT
 1. [relaypoint-web-server](https://github.com/edgecross-cloud/relaypoint-web-server)
